@@ -3,7 +3,7 @@
 
 这个玩意儿是用来把atcoder上AC的代码提交tuoj的。
 
-依赖：python以及必要的运行库、chromedriver。
+依赖：python 2.x以及必要的运行库、chromedriver。
 
 配置：在grab.py中填写**atcoder** user_name和pass_word，在submit.py里填写**tuoj**的url、un和ps。
 
